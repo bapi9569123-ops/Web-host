@@ -1,0 +1,91 @@
+{
+    "test": {
+        "pass": "test",
+        "status": "blocked",
+        "joined": "2026-02-02 07:43:14",
+        "block_reason": "Hosting-type bots are not allowed on this server."
+    },
+    "crazy": {
+        "pass": "Shop@#",
+        "status": "active",
+        "joined": "2026-02-02 08:00:35"
+    },
+    "crazy1": {
+        "pass": "crazyop",
+        "status": "active",
+        "joined": "2026-02-02"
+    },
+    "crazy2": {
+        "pass": "12345",
+        "status": "active",
+        "joined": "2026-02-02"
+    },
+    "Ripto": {
+        "pass": "123123qwe",
+        "status": "blocked",
+        "joined": "2026-02-02",
+        "block_reason": "Hosting-type bots are not allowed on this server."
+    },
+    "DIVYANSH": {
+        "pass": "66216621",
+        "status": "active",
+        "joined": "02 Feb 2026"
+    },
+    "sajjad": {
+        "pass": "sajjadkhanhacker",
+        "status": "active",
+        "joined": "02 Feb 2026"
+    },
+    "Sajjad": {
+        "pass": "sajjadkhanhacker",
+        "status": "active",
+        "joined": "02 Feb 2026"
+    },
+    "AbdulQuadir20": {
+        "pass": "Qwertyuiop123",
+        "status": "active",
+        "joined": "03 Feb 2026"
+    },
+    "AbdulQuadir": {
+        "pass": "Qwerty",
+        "status": "active",
+        "joined": "03 Feb 2026"
+    },
+    "Pdonlifelinebot": {
+        "pass": "arun@#123",
+        "status": "active",
+        "joined": "03 Feb 2026"
+    },
+    "Plifelinebot": {
+        "pass": "arun@#123",
+        "status": "active",
+        "joined": "03 Feb 2026"
+    },
+    "RIFATHASAN11": {
+        "pass": "RIFATHASAN11",
+        "status": "active",
+        "joined": "03 Feb 2026"
+    },
+    "Kamrul812": {
+        "pass": "963214789",
+        "status": "active",
+        "joined": "03 Feb 2026"
+    },
+    "itwasdie": {
+        "pass": "itwasdie",
+        "status": "active",
+        "joined": "03 Feb 2026"
+    },
+    "ayrkbrvrvrp67799y": {
+        "pass": "ayrkbrvrvrp67799y",
+        "status": "blocked",
+        "joined": "03 Feb 2026",
+        "block_reason": "No valid Telegram Bot Token found."
+    },
+    "alpha": {
+        "pass": "beta",
+        "status": "blocked",
+        "joined": "03 Feb 2026",
+        "block_reason": "Hosting-type bots are not allowed on this server."
+    }
+}
